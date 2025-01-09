@@ -21,4 +21,5 @@ If you face any issues, please report them on [GitHub](https://github.com/JetBra
 You can open the web application by running the `:composeApp:wasmJsBrowserDevelopmentRun` Gradle task.
 
 [09/01/2025] : Removed the unused the libraries from libs.versions.toml
+[09/01/2025] : added the navigation compose library
 
